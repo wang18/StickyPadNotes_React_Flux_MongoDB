@@ -1,0 +1,5 @@
+module.exports = {
+    RECEIVE_NOTES: 'RECEIVE_NOTES',
+    ADD_NOTE: 'ADD_NOTE',
+    DELETE_NOTE: 'DELETE_NOTE'
+}
